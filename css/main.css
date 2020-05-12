@@ -76,7 +76,7 @@ h6 {
 
 /* typographic details */
 p {
-    font-family: Source Sans Pro,sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     font-size: 1.2em;
     line-height: 1.25; /*unitless, please */
     margin-left: .25em;
