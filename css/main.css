@@ -39,12 +39,12 @@ h2 {
 }
 
 h3 {
-color:#900C3F;
-font-size: 2em;
-margin-top:.5em;
-margin-bottom: .25em;
-margin-left: .25em;
-margin-right: 1em;
+  color:#900C3F;
+  font-size: 2em;
+  margin-top:.5em;
+  margin-bottom: .25em;
+  margin-left: .25em;
+  margin-right: 1em;
 }
 
 h4 {
@@ -66,12 +66,12 @@ h5 {
 }
 
 h6 {
-color:#900C3F;
-font-size: 2em;
-margin-top:.5em;
-margin-bottom: .25em;
-margin-left: .25em;
-margin-right: 1em;
+  color:#900C3F;
+  font-size: 2em;
+  margin-top:.5em;
+  margin-bottom: .25em;
+  margin-left: .25em;
+  margin-right: 1em;
 }
 
 /* typographic details */
